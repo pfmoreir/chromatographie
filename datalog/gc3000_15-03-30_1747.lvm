@@ -1,0 +1,23 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	,
+Multi_Headings	No
+X_Columns	No
+Time_Pref	Absolute
+Operator	pfmoreir
+Date	2015/03/30
+Time	17:23:12,109375
+***End_of_Header***	
+	
+Channels	2		
+Samples	1	1	
+Date	2015/03/30	2015/03/30	
+Time	17:47:42,40625	17:47:42,40625	
+X_Dimension	Time	Time	
+X0	1,4702968750000000E+3	1,4702968750000000E+3	
+Delta_X	1,000000	1,000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	0,003385	-0,000746

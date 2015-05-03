@@ -1,0 +1,12 @@
+[cfp2220]
+cfp2220 = "192.168.0.213"
+
+[My Computer]
+My Computer = "192.168.1.153"
+
+[RT Industrial Controller Target]
+RT Industrial Controller Target = "0.0.0.0"
+
+[weblab0B]
+weblab0B = "143.107.105.215"
+
